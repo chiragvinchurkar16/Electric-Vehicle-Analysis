@@ -4,8 +4,9 @@
 the dominance of battery electric vehicles (BEVs) with a market share of 60% and the growth of plug-in hybrid electric vehicles 
 (PHEVs) at 30% . 
 • Analysis contributed to 20% improved forecasting for incentive planning and provided actionable insights for stakeholders in 
-electric vehicle adoption trends  .
+electric vehicle adoption trends .
 
+- Dashboard Interaction <a href="
 ## Problem Statement
 KPI’S Requirement
 1. Total Vehicles:
