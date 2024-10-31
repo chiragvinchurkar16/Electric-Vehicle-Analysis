@@ -19,5 +19,9 @@ KPI’S Requirement
 • Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
 • Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
 
+## Dashboard
+![Screenshot 2024-10-31 101448](https://github.com/user-attachments/assets/1a8bd96a-83b8-4965-a031-5e70c2ef7fbe)
+
+
 
 
