@@ -6,7 +6,8 @@ the dominance of battery electric vehicles (BEVs) with a market share of 60% and
 • Analysis contributed to 20% improved forecasting for incentive planning and provided actionable insights for stakeholders in 
 electric vehicle adoption trends .
 
-- Dashboard Interaction <a href="
+- Dashboard Interaction <a href="https://github.com/chiragvinchurkar16/Electric-Vehicle-Analysis/blob/main/electric%20vehicle%20analysis.pbix">View Dashboard</a>
+
 ## Problem Statement
 KPI’S Requirement
 1. Total Vehicles:
