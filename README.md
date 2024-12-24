@@ -22,7 +22,8 @@ KPI’S Requirement
 • Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
 
 ## Dashboard
-![Screenshot 2024-10-31 101448](https://github.com/user-attachments/assets/1a8bd96a-83b8-4965-a031-5e70c2ef7fbe)
+![Screenshot 2024-12-24 183447](https://github.com/user-attachments/assets/28565503-8a54-4b7f-b92b-a7c8be1688ed)
+![Screenshot 2024-12-24 183513](https://github.com/user-attachments/assets/d59986e3-4015-481e-ad2c-b43c29d4c4ef)
 
 
 
